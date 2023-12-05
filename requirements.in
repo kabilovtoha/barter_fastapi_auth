@@ -5,7 +5,7 @@ twine
 factory_boy
 Faker
 
-barter-fastapi-auth
+# barter-fastapi-auth
 
 setuptools
 black

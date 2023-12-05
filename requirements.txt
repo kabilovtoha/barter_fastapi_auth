@@ -46,7 +46,7 @@ fastapi==0.98.0
     #   barter-fastapi-auth
 flake8==6.0.0
     # via -r requirements.in
-barter-fastapi-auth==0.0.4
+#barter-fastapi-auth==0.0.4
     # via -r requirements.in
 h11==0.14.0
     # via
